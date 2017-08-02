@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FuckedProgress">
+        <attr name="circleColor" format="color" />
+        <attr name="progress" format="string"/>
+        <attr name="circleRadius" format="float"/>
+        <attr name="textSize" format="float"/>
+        <attr name="distance" format="float"/>
+    </declare-styleable>
+</resources>
